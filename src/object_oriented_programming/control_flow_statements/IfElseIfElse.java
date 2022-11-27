@@ -1,4 +1,4 @@
-package ObjectOrientedProgramming.ControlFlowStatements;
+package object_oriented_programming.control_flow_statements;
 
 public class IfElseIfElse {
 
