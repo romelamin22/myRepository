@@ -15,16 +15,17 @@ public class LearnQueue {
         q.add(20);
         q.add(30);
 
-        //q.poll();//remove
+        q.poll();//removes 10
 
 
-        System.out.println(q);
 
-        System.out.println(q.peek());
-        System.out.println(q.size());//3
-        System.out.println(q.contains(20));
-        System.out.println(q.toArray()[2]);
-        System.out.println(q.poll());
+        //System.out.println(q);
+
+        System.out.println(q.peek());//peek is used to see the first value of queue list
+//        System.out.println(q.size());//3
+//        System.out.println(q.contains(20));
+//        System.out.println(q.toArray()[2]);
+//        System.out.println(q.poll());
 
 
 

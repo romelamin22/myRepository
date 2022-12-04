@@ -6,12 +6,12 @@ public class MoreOnFileReadAndWrite {
 
     public static void main(String[] args) {
 
-     //FileInputStream - it is used to read data from a file in the form of sequence of bytes
-        String path = "C:\\myFolder\\nothing.txt";
+        //FileInputStream - it is used to read data from a file in the form of sequence of bytes
+        //String path = "C:/myFolder/nothing.txt";
         //File myFile = new File(path);
 
         try {
-            FileInputStream fis = new FileInputStream(path);
+            FileInputStream fis = new FileInputStream("C:/myFolder/nothing.txt");
 
             InputStreamReader isr = new InputStreamReader(fis);
 

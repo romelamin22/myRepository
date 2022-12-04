@@ -13,7 +13,7 @@ public class TextFileRead {
         //System.out.println("I want do delete the last characters\b");
 
 
-/*        File fl = new File("C:/myFolder/myText.txt");
+/*      File fl = new File("C:/myFolder/myText.txt");
         Scanner s = new Scanner(fl);
 
         while(s.hasNextLine()) {
