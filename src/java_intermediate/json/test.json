@@ -1,0 +1,17 @@
+{
+  "firstName": "John",
+  "lastName": "Kennedy",
+  "address":
+  [
+    {
+      "street": "street one",
+      "city": "Austin",
+      "state": "Texas"
+    },
+    {
+      "street": "street two",
+      "city": "Brooklyn",
+      "state": "NY"
+    }
+  ]
+}

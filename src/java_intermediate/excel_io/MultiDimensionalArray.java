@@ -1,6 +1,6 @@
 package java_intermediate.excel_io;
 
-public class ExcelReadWithMultiDimensionalArray {
+public class MultiDimensionalArray {
 
     public static void main(String[] args) {
 

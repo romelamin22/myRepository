@@ -36,7 +36,12 @@ public class ExcelRead {
 
                 String value = myRow.getCell(b).toString();//toString is a generic term we could use for integer, string, boolean, char etc.
 
+
+
+
                 System.out.print(value + "\t\t");
+
+
 
             }
 
